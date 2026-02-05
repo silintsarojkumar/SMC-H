@@ -45,7 +45,7 @@ src/
 git clone https://github.com/silintsarojkumar/SMC-H.git
 
 2. Navigate to project folder
-cd doctor-booking-app
+cd hospital
 
 3. Install dependencies
 npm install
