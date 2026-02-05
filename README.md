@@ -42,7 +42,7 @@ src/
 
 ⚙️ Installation & Setup
 1. Clone the repository
-git clone [https://github.com/your-username/doctor-booking-app.git](https://github.com/silintsarojkumar/SMC-H.git)
+git clone https://github.com/silintsarojkumar/SMC-H.git
 
 2. Navigate to project folder
 cd doctor-booking-app
